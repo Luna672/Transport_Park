@@ -1,0 +1,7 @@
+Car
+rr rr 1 1 rr 1 1 1
+rrr rrr 11 11 rrr 11 11 0
+Truck
+qq qq 33 33 qq 33 33 33
+qqq qqq 4 44 qqq 4 44 4
+ee ee 3 3 ee e 3 3
